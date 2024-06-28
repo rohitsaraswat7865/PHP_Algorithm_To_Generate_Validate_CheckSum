@@ -1,2 +1,3 @@
-# PHP_Algorithm_To_Generate_Validate_CheckSum
-PHP_Pseudocode_To_Generate_Validate_CheckSum
+Algorithm to calculate checksum, validate data i.e. prevent modification of crucial parameters over network, in logs, storage.
+Ex. Fintech params like Card Number, Amount, Invoice in flyby. 
+Based on XOR Cipher.
